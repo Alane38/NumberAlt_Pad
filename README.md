@@ -16,6 +16,7 @@
 
 # Utilisation
 > Une fois lancé il suffit de faire Alt + 14 (& + ') - (exemple 144 = É)
+> <br>
 > Pour fermer le script sans toucher à la souris vous pouvez faire Alt + ²
 
 ## Aide ?
