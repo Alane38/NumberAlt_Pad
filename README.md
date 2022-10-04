@@ -10,9 +10,9 @@
 > ✅ Open Source <br>
 
 # Installation
-> Pour installer les packages, il suffit d'écrire :
+> Un seul package est utilisé, il suffit d'écrire :
 > ```bash
-> pip install -r
+> pip install keyboard
 > ```
 
 # Utilisation
